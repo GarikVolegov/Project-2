@@ -16,4 +16,4 @@
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true
   },
-  "include": [""]
+  "include": ["."]
